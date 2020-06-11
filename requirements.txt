@@ -1,0 +1,10 @@
+python3.7.4
+jupyter
+matplotlib
+numpy
+tensorflow (or tensorflow-gpu) 2.1.0
+tensorflow-datasets
+
+gym[atari]==0.17.2
+numpy==1.18.4
+import-ipynb ==0.1.3
